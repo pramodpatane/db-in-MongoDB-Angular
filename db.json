@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Ajinkya",
+      "age": "25",
+      "marks": 80
+    },
+    {
+      "id": 2,
+      "name": "Krishna",
+      "age": "23",
+      "marks": "90"
+    },
+    {
+      "id": 3,
+      "name": "Ananta",
+      "age": "28",
+      "marks": "100"
+    },
+    {
+      "id": 4,
+      "name": "Pruthvi",
+      "age": "24",
+      "marks": "120"
+    }
+  ]
+}
